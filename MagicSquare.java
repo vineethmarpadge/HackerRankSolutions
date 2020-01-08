@@ -1,4 +1,3 @@
-package solutions;
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -25,7 +24,7 @@ output
 1
 */
 
-public class MagicSquare {
+public class Solution {
 
 	public static boolean checkMatrix(int a[]) {
 		int r1, r2, r3, c1, c2, c3, d1, d2;
